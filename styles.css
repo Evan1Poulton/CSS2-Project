@@ -1,67 +1,21 @@
 body{
-	background-color: #f6f6f6
-
+	background-color: #ccf5f5;
 }
-#painting{
-	
-	width: 400px;
-	height: 400px;
-	background-color: #fff4bd;
-	margin-top: 30px;
-	margin-right: auto;
+#gameholder{
+	width: 600px;
 	margin-left: auto;
-	box-shadow: 4px 4px #808080;
-
-
-}
-#toprow{
-	height: 290px;
-	width: 290px;
-}
-#bigbox{
-	height: 290px;
-	width: 290px;
-}
-#topdivider{
-	width: 10px;
-	height: 290px;
-}
-.blue{
-	background-color: blue;
-}
-.yellow{
-	background-color: yellow;s
+	margin-right: auto;
 
 }
-.black{
-	background-color: black;
+#title{
+	width: 600px;
+	height: 150px;
+	background-image: url('penguin_pngs/penguin_pngs/penguin_title.png');
 }
-.red{
-	background-color: red;
-}
-.right{
-	float: right;
-}
-#divder1{
-	height: 290px;
-	width: 10px;
-}
-#topleftcolumn{
-	width: 10px;
-	height: 290px;
-
-}
-.mediumbox{
-	height: 140px;
-	width: 100px;
-}
-
-#divider2{
-	height: 10px;
-	width: 100px;
+.penguin1{
+	width: 200px;
+	height: 200px;
 	float: left;
+	background-image: url('/penguin_pngs/penguin_pngs/penguin_1.png');
 }
-.mediumbox2{
-	height: 140px;
-	width: 100px
-}
+
