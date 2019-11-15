@@ -1,21 +1,67 @@
 body{
-	background-color: #ccf5f5;
+	background-color: #f6f6f6
+
 }
-#gameholder{
-	width: 600px;
-	margin-left: auto;
+#painting{
+	
+	width: 400px;
+	height: 400px;
+	background-color: #fff4bd;
+	margin-top: 30px;
 	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 4px 4px #808080;
+
 
 }
-#title{
-	width: 600px;
-	height: 150px;
-	background-image: url('penguin_pngs/penguin_pngs/penguin_title.png');
+#toprow{
+	height: 290px;
+	width: 290px;
 }
-.penguin1{
-	width: 200px;
-	height: 200px;
+#bigbox{
+	height: 290px;
+	width: 290px;
+}
+#topdivider{
+	width: 10px;
+	height: 290px;
+}
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;s
+
+}
+.black{
+	background-color: black;
+}
+.red{
+	background-color: red;
+}
+.right{
+	float: right;
+}
+#divder1{
+	height: 290px;
+	width: 10px;
+}
+#topleftcolumn{
+	width: 10px;
+	height: 290px;
+
+}
+.mediumbox{
+	height: 140px;
+	width: 100px;
+}
+
+#divider2{
+	height: 10px;
+	width: 100px;
 	float: left;
-	background-image: url('/penguin_pngs/penguin_pngs/penguin_1.png');
 }
-
+.mediumbox2{
+	height: 140px;
+	width: 100px
+}
